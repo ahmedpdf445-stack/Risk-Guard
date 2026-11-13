@@ -1,0 +1,5 @@
+/data/data/com.termux/files/home/RiskGuard/build/CMakeFiles/riskguard_lib.dir
+/data/data/com.termux/files/home/RiskGuard/build/CMakeFiles/riskguard.dir
+/data/data/com.termux/files/home/RiskGuard/build/CMakeFiles/test_all.dir
+/data/data/com.termux/files/home/RiskGuard/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/RiskGuard/build/CMakeFiles/rebuild_cache.dir

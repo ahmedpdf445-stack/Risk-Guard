@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/c++  -O3 -Wall -Wextra -O2 -g -DNDEBUG -Xlinker --dependency-file=CMakeFiles/riskguard.dir/link.d CMakeFiles/riskguard.dir/src/main.cpp.o -o riskguard  libriskguard_lib.a
